@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PueVDijk and I’m from the Netherlands
+- - 😄 Pronouns: he/him
 - 🌱 I’m currently studying for Software Developing
 - 👀 I’m interested in coding/making websites
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I’m a huge Queen fan and i really like to game or watch movies 
 
 <!---
