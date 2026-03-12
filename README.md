@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PueVDijk and I’m from the Netherlands
+- 👋 Hi, my name is Pieter van Dijk and I’m from the Netherlands
 - 😄 My pronouns are: he/him
 - 🌱 I’m currently studying for Software Developing
 - 👨‍🎓 I'm following an internship at Technolab Leiden for my study, you can track me here: https://github.com/PietervDijk
